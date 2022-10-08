@@ -1,0 +1,26 @@
+{
+  "name": "social-tree-api",
+  "version": "1.0.0",
+  "description": "This is a MongoDB challenge to utilize NoSQL to build an API for a social network",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdanleano/Social-Tree-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdanleano/Social-Tree-API/issues"
+  },
+  "homepage": "https://github.com/jdanleano/Social-Tree-API#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.5"
+  }
+}
