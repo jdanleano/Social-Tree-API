@@ -1,6 +1,6 @@
 # Social Tree API - Module 18 Challenge
 
-This is a MongoDB challenge to utilize NoSQL to build an API for a social network
+This is a MongoDB challenge to build an API for a social network.
 
 ## Mock Up
 
