@@ -19,8 +19,7 @@
   },
   "homepage": "https://github.com/jdanleano/Social-Tree-API#readme",
   "dependencies": {
-    "express": "^4.18.1",
-    "mongodb": "^4.10.0",
-    "mongoose": "^6.6.5"
+    "express": "^4.17.1",
+    "mongoose": "^5.12.13"
   }
 }
